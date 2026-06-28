@@ -1,0 +1,6 @@
+{
+  "name": "NANA Learning Portal",
+  "description": "An interactive learning management portal and study guide builder for NANA Learning. Customize lesson syllabuses, select custom OKLCH palettes, practice quizzes, and download beautiful, responsive static HTML study guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
